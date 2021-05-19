@@ -4,7 +4,7 @@ Created on Sun Oct 11 16:16:46 2020
 
 @author: Nikhith
 """
-# Author : Nikhith Theddu, Sumanth Bhargav Kanchi, Hemalekha Pillarishetty
+# Author : Nikhith Theddu
 # This program randomly generates sentences by taking the following inputs:
 # 1. The value of n in n-grams
 # 2. The number of sentences to be generated
