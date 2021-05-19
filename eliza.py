@@ -4,7 +4,7 @@ Created on Tue Nov 10 18:12:10 2020
 
 @author: Nikhith
 """
-# Authors: Nikhith Theddu, Sumanth Bhargav Kanchi, Hemalekha Pillarishetty
+# Authors: Nikhith Theddu
 # This program creates a chat bot assistant ELIZA, a psychotherapist
 # It is an interactive chat bot assistant which constantly takes inputs
 # from the user and replies to the user accordingly.
